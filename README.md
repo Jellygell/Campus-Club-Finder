@@ -1,4 +1,4 @@
-## Campus Club Finder
+# Campus Club Finder
 
 Campus Club Finder adalah aplikasi web single-page (SPA) yang dibuat menggunakan Vite + React, dengan React Router untuk navigasi halaman dan Tailwind CSS untuk styling yang responsif. Aplikasi ini membantu mahasiswa untuk menemukan, mengenal, dan bergabung dengan klub kampus.
 

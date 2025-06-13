@@ -23,6 +23,7 @@ http://localhost:5173
 # Daftar halaman aplikasi
 # 1.	/ - Halaman Utama (HomePage)
 Fitur:
+
 •	Menampilkan pesan dan deskripsi singkat
 •	Terdapat section yang menarik untuk mahasiswa tertarik untuk eksplor klub kampus
 •	Terdapat button ‘Browse Clubs’ untuk navigasi ke Club List Page
@@ -30,6 +31,7 @@ Fitur:
 
 # 2.	/clubs – Club List page
 Fitur:
+
 •	Menampilkan 5 klub dalam bentuk kartu (card).
 •	Setiap kartu menampilkan:
 -	Nama klub
@@ -45,6 +47,7 @@ Fitur:
 
 # 3.	/clubs/:clubId – Club Detail page
 Fitur:
+
 •	Menampilkan informasi berupa
 -	Gambar klub
 -	Nama klub
@@ -61,9 +64,11 @@ o	Muncul konfirmasi bahwa kamu telah bergabung.
 
 # 4.	/about – About
 Fitur: 
+
 •	Berisi informasi terkait tujuan aplikasi, teknologi yang digunakan, dan lainnya.
 
 # 5.	* – 404 Not Found
 Fitur:
+
 •	Menampilkan pesan bahwa halaman tidak ditemukan.
 •	Terdapat ‘Go back Home’ untuk kembali ke halaman utama / home.
